@@ -1,0 +1,42 @@
+{
+    "FCFS": {
+        "Avg Turnaround": 4450.865,
+        "Avg Waiting": 4398.985,
+        "Avg Response": 4398.985,
+        "CPU Util": 96.14529280948851,
+        "Throughput": 0.018532246108228317,
+        "Fairness": 0.14520976159107013
+    },
+    "SJF": {
+        "Avg Turnaround": 3343.95,
+        "Avg Waiting": 3292.07,
+        "Avg Response": 3292.07,
+        "CPU Util": 96.14529280948851,
+        "Throughput": 0.018532246108228317,
+        "Fairness": 0.6050875771700475
+    },
+    "PRIORITY": {
+        "Avg Turnaround": 4451.67,
+        "Avg Waiting": 4399.79,
+        "Avg Response": 4399.79,
+        "CPU Util": 96.14529280948851,
+        "Throughput": 0.018532246108228317,
+        "Fairness": 0.14530972201283934
+    },
+    "RR": {
+        "Avg Turnaround": 7364.545,
+        "Avg Waiting": 7312.665,
+        "Avg Response": 1981.78,
+        "CPU Util": 89.2328861369109,
+        "Throughput": 0.01719986240110079,
+        "Fairness": 0.5582561951763012
+    },
+    "MLFQ": {
+        "Avg Turnaround": 10234.36,
+        "Avg Waiting": 10182.48,
+        "Avg Response": 627.355,
+        "CPU Util": 68.8337534828181,
+        "Throughput": 0.013267878466233248,
+        "Fairness": 0.9408384088918411
+    }
+}

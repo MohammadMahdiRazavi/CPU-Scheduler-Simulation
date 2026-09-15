@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="64f313e3-9853-43cc-889d-754d08693a7f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/CPU Scheduler Simulation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Event.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PCB.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Report/Technical Report.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Schedulers/FCFS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Schedulers/MLFQ.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Schedulers/PriorityScheduler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Schedulers/RoundRobin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Schedulers/SJF.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Simulator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Statistics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WorkloadGenerator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="37efbZMjWAqEdlY2EiKMpTL8Oms" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Plots.executor": "Run",
+    "Python.Statistics.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/victus/Desktop/my Project/OS/CPU Scheduler Simulation",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\victus\Desktop\my Project\OS\CPU Scheduler Simulation\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\victus\Desktop\my Project\OS\CPU Scheduler Simulation\src\Report" />
+      <recent name="C:\Users\victus\Desktop\my Project\OS\CPU Scheduler Simulation\src\Schedulers" />
+      <recent name="C:\Users\victus\Desktop\my Project\OS\CPU Scheduler Simulation\src" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-024ed6589d45-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.23567.174" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64f313e3-9853-43cc-889d-754d08693a7f" name="Changes" comment="" />
+      <created>1767268530271</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1767268530271</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
